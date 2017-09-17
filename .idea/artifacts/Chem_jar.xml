@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Chem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Chem_jar</output-path>
+    <root id="archive" name="Chem.jar">
+      <element id="module-output" name="Chem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libs/slf4j-api-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libs/slf4j-simple-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libs/oscar4-all-4.2.2-with-dependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
